@@ -3,12 +3,16 @@
 Minimum Web push Service using VAPID
 
 Generate a pair of key using 
+```bash
 npm run generate
+```
 
-In main.js
+In `main.js`
 - Write your values for the public and private keys.
-- Add some user's subscriptions in pushSubscriptions array.
+- Add some user's subscriptions in `pushSubscriptions` array.
 
 
 in the command line, run :
+```bash
 npm start
+```
